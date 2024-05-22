@@ -1,4 +1,4 @@
-FROM debian:debian:bullseye
+FROM debian:bullseye
 RUN apt-get update && apt install libc-bin libc6 && apt-get -y install wget xz-utils git && apt-get install -y \
         autoconf \
         automake \
