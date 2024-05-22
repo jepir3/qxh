@@ -26,4 +26,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: jepir3/tuske:latest
+          tags: jepir3/tuske:v1
